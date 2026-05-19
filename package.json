@@ -1,0 +1,14 @@
+{
+  "name": "greeks-pro-python",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m streamlit run main.py --server.port 3000 --server.address 0.0.0.0",
+    "build": "true",
+    "start": "python3 -m streamlit run main.py --server.port 3000 --server.address 0.0.0.0",
+    "lint": "ls main.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

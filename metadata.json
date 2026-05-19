@@ -1,0 +1,6 @@
+{
+  "name": "Greeks Pro Python",
+  "description": "Professional Quantitative Options Engine built with Python and Streamlit. Supports multi-currency analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
