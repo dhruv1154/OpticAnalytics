@@ -1,6 +1,6 @@
 {
-  "name": "Greeks Pro Python",
-  "description": "Professional Quantitative Options Engine built with Python and Streamlit. Supports multi-currency analytics.",
+  "name": "OpticAnalytics",
+  "description": "A high-performance interactive options analytics dashboard with Black-Scholes, Binomial Tree, Monte Carlo, and Greeks engine.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
